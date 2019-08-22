@@ -1,0 +1,2 @@
+cached-property==1.5.1
+property-cached==1.6.2
